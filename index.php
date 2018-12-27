@@ -3,4 +3,6 @@
 echo " Olá mundo 123!";
 echo " Olá Udemy";
 
+echo " Testando o git";
+
 ?>
